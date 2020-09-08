@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroud_app"
+    tools:context=".About">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/icontensesdetail"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/akun"
+            tools:layout_editor_absoluteX="106dp"
+            tools:layout_editor_absoluteY="266dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/asrorul_umam"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/background_light"
+            tools:layout_editor_absoluteY="466dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:textColor="@android:color/background_light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/umamasrorul_gmail_com"
+            android:textSize="15sp"
+            tools:layout_editor_absoluteY="509dp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

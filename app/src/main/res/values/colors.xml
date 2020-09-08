@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B15205</color>
+    <color name="colorPrimaryDark">#3E2602</color>
+    <color name="colorAccent">#CF6927</color>
+    <color name="gradient">
+    <gradient xmlns:android="http://schemas.android.com/apk/res/android"
+        android:angle="135"
+        android:centerColor="#CF6927"
+        android:endColor="#B15205"
+        android:startColor="#3E2602"
+        android:type="linear"/>
+    </color>
+    <color name="abu">#D6D4D4</color>
+</resources>

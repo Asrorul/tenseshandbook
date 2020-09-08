@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tenses Handbook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    <string name="simppresent">:Simple Present Tenses biasanya digunakan untuk menunjukan fakta, kebiasaan, dan kejadian yang terjadi pada saat ini</string>-->
+    <!--    <string name="rumus">:Rumus Subject + Verb 1 (present form) Kata Sinyal always, every, never, normally, often, sometimes, usually, seldom Kalimat Positif He always works very hard in the company. Kalimat Negatif He does not work very hard in the company. Kalimat Tanya Does he work very hard in the company? Yes, he does. / No, he does not</string>-->
+    <!--    <string name="rumusSimpPresent">:Subject + Verb 1 (present form)</string>-->
+    <!--    <string name="titikdua">:</string>-->
+    <string name="rumusnya">Rumus</string>
+    <!--    <string name="katasinyalpresent">:always, every, never, normally, often, sometimes, usually, seldom</string>-->
+    <string name="kata_sinyal">Kata Sinyal</string>
+    <string name="sentence">Sentence</string>
+    <string name="positif">Positif</string>
+    <string name="type">Type</string>
+    <string name="verbal">verbal</string>
+    <string name="example">Example</string>
+    <!--    <string name="dad_works_hard_every_day">Dad works hard every day</string>-->
+    <string name="nominal">Nominal</string>
+    <!--    <string name="rumusSimpPresentNominal">Subject + is/am/are + nominal</string>-->
+    <!--    <string name="nominalpositivexampl">She is more beautiful than usual</string>-->
+    <string name="perumusan">#Rumus</string>
+    <string name="kalimat_positif">Kalimat Positif</string>
+    <string name="kalimat_negative">Kalimat Negativ</string>
+    <string name="kalimat_interogativ">Kalimat Interogativ</string>
+    <string name="tenses_handbook">TENSES HANDBOOK</string>
+    <string name="asrorul_umam">Asrorul Umam</string>
+    <string name="umamasrorul_gmail_com">umamasrorul@gmail.com</string>
+    <string name="credit_materi_www_kampunginggris_id">Credit Materi: www.kampunginggris.id</string>
+</resources>
